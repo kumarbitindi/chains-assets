@@ -1,10 +1,10 @@
 {
-  "name": "@block-wallet/chains-assets",
-  "version": "0.0.36",
+  "name": "@bitindi-wallet/chains-assets",
+  "version": "0.0.39",
   "description": "A generator of lists of EVM chains, ERC20 tokens and exchange rates metadata to be consumed by the extension.",
   "main": "dist/index.js",
-  "repository": "git@github.com:block-wallet/chains-assets.git",
-  "author": "BlockWallet",
+  "repository": "git@github.com:kumarbitindi/chains-assets.git",
+  "author": "BitindiWallet",
   "license": "UNLICENSED",
   "scripts": {
     "update": "yarn generate && yarn bump",
@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@types/node": "^18.11.18",
-    "assets": "https://github.com/block-wallet/assets#v0.0.17",
+    "assets": "https://github.com/block-wallet/assets#v0.0.18",
     "axios": "^1.2.2",
     "banned-assets": "https://github.com/block-wallet/banned-assets#v0.0.2",
     "ethereumjs-util": "^7.1.5",
