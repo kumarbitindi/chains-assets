@@ -12,7 +12,7 @@ export const AUTO_GENERATED_FILE_LABEL =
 export const CHAINS_DATASOURCE_URL = 'https://chainid.network/chains.json';
 export const ASSETS_LIST_PATH = 'node_modules/assets/blockchains';
 export const ASSETS_RESOURCES_URL =
-  'https://raw.githubusercontent.com/kumarbitindi/assets/master/blockchains';
+  'https://raw.githubusercontent.com/block-wallet/assets/master/blockchains';
 export const OPTIMISM_TOKEN_LIST_URL =
   'https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/optimism.tokenlist.json';
 export const ARBITRUM_TOKEN_LIST_URL =
@@ -191,6 +191,7 @@ export const ASSETS_BLOCKCHAINS_CHAIN_ID: { [key in number]: string } = {
   534351: 'scroll',
   324: 'zksync',
   1101: 'polygonzkevm',
+  1116: 'core',
   4099: 'bitindi',
   2202: 'antofy'
 };
@@ -224,6 +225,7 @@ export const NETWORKS: { [key in string]: number } = {
   xdc: 50,
   zksync: 324,
   polygonzkevm: 1101,
+  core: 1116,
   bitindi: 4099,
   antofy: 2202
 };
