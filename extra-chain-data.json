@@ -521,7 +521,7 @@
     "shortName": "scroll-l2-testnet",
     "rpc": [
       "https://alpha-rpc.scroll.io/l2",
-      "https://scroll-testnet.blockpi.network/v1/rpc/publi"
+      "https://scroll-testnet.blockpi.network/v1/rpc/public"
     ],
     "faucets": ["https://prealpha.scroll.io/faucet"]
   },
