@@ -68,7 +68,7 @@
     "scanApi": "http://zyxscan.com"
   },
   "56": {
-    "rpc": ["https://bsc.bitindi.org", "https://rpc.ankr.com/bsc/'"],
+    "rpc": ["https://bsc.bitindi.org", "https://rpc.ankr.com/bsc"],
     "scanApi": "https://api.bscscan.com"
   },
   "57": {
@@ -106,7 +106,7 @@
   },
   "99": { "scanApi": "https://blockscout.com/poa/core" },
   "100": {
-    "rpc": ["https://rpc.ankr.com/gnosis/", "https://rpc.gnosischain.com"],
+    "rpc": ["https://rpc.ankr.com/gnosis", "https://rpc.gnosischain.com"],
     "scanApi": "https://blockscout.com/xdai/mainnet",
     "nativeCurrencyIcon": "https://raw.githubusercontent.com/block-wallet/assets/master/blockchains/xdai/assets/0x/logo.png"
   },
@@ -136,7 +136,7 @@
   "137": {
     "rpc": [
       "https://polygon.bitindi.org",
-      "https://rpc.ankr.com/polygon/"
+      "https://rpc.ankr.com/polygon"
     ],
     "scanApi": "https://api.polygonscan.com"
   },
