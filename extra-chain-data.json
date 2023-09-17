@@ -2,7 +2,8 @@
   "1": {
     "rpc": [
       "https://mainnet-node.bitindi.org",
-      "https://rpc.ankr.com/eth"
+      "https://rpc.ankr.com/eth",
+      "https://eth.drpc.org"
     ],
     "scanApi": "https://api.etherscan.io"
   },
@@ -17,6 +18,7 @@
   "5": {
     "rpc": [
       "https://rpc.ankr.com/eth_goerli",
+      "https://goerli.drpc.org",
       "https://eth-goerli.public.blastapi.io"
     ],
     "scanApi": "https://api-goerli.etherscan.io",
@@ -30,7 +32,8 @@
   "10": {
     "rpc": [
       "https://rpc.ankr.com/optimism",
-      "https://mainnet.optimism.io"
+      "https://mainnet.optimism.io",
+      "https://optimism.drpc.org"
     ],
     "scanApi": "https://api-optimistic.etherscan.io",
     "nativeCurrencyIcon": "https://raw.githubusercontent.com/block-wallet/assets/master/blockchains/ethereum/info/logo.png"
@@ -68,7 +71,7 @@
     "scanApi": "http://zyxscan.com"
   },
   "56": {
-    "rpc": ["https://bsc.bitindi.org", "https://rpc.ankr.com/bsc"],
+    "rpc": ["https://bsc.bitindi.org", "https://bsc.drpc.org", "https://rpc.ankr.com/bsc"],
     "scanApi": "https://api.bscscan.com"
   },
   "57": {
@@ -174,7 +177,8 @@
   "250": {
     "rpc": [
       "https://rpc.ankr.com/fantom",
-      "https://rpc.fantom.network"
+      "https://rpc.fantom.network",
+      "https://fantom.drpc.org"
     ],
     "scanApi": "https://api.ftmscan.com"
   },
@@ -208,7 +212,8 @@
   "324": {
     "rpc": [
       "https://mainnet.era.zksync.io",
-      "https://1rpc.io/zksync2-era"
+      "https://1rpc.io/zksync2-era",
+      "https://zksync.drpc.org"
     ]
   },
   "338": {
@@ -280,6 +285,7 @@
   "1101": {
     "rpc": [
       "https://rpc.ankr.com/polygon_zkevm",
+      "https://polygon-zkevm.drpc.org",
       "https://zkevm-rpc.com"
     ]
   },
